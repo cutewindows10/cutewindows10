@@ -1,7 +1,7 @@
 # 👋 Hello, I'm cutewindows!
 
 <div align="center">
-  <img src="https://github.com/cutewindows10/cutewindows10/assets/149320111/4b0df88d-a1a1-40ab-9fd1-54884a2c3b5a" alt="Profile Banner" width="100%">
+  <img src="https://github.com/cutewindows10/cutewindows10/assets/149320111/4b0df88d-a1a1-40ab-9fd1-54884a2c3b5a" alt="Profile Banner" width="60%">
 </div>
 
 ## 🚀 About Me
